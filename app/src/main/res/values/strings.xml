@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Roshambo</string>
+    <string name="win">WIN</string>
+    <string name="lose">LOSE</string>
+    <string name="draw">DRAW</string>
+    <string name="win_lose_draw">WIN/LOSE/DRAW</string>
+    <string name="games_move">games move</string>
+    <string name="your_move">your move</string>
+</resources>
